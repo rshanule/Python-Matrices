@@ -64,7 +64,8 @@ class Matrix:
         coordinate[1] = coordinate[1] - 1
         self.rows[coordinate[0]][coordinate[1]] = replacement
 
-    # Returns the value at a point in the matrix formatted as a list: [i,j]
+    # Returns the value at a point in the matrix. 
+    # The input is a point formatted as a list: [i,j]
     # i is the row number and j is the column number
     def getAt(self, coordinate):
         coordinate[0] = coordinate[0] - 1
