@@ -19,9 +19,3 @@ Right now, if it works I'll take it.
 ### Who do I talk to? ###
 
 I'm here for you fam, just message me.
-
-### TODO ###
-
--Allow the matrix to be fully defined from within the newMatrix arguments
-
--ROW-ECHELON REDUCTION
